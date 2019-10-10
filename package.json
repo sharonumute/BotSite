@@ -1,0 +1,24 @@
+{
+    "name": "botsites",
+    "version": "1.0.0",
+    "description": "A Generic site for static files needed for my Bots",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/sharonumute/BotSites.git"
+    },
+    "author": "Sharon Umute",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/sharonumute/BotSites/issues"
+    },
+    "homepage": "https://github.com/sharonumute/BotSites#readme",
+    "dependencies": {
+        "express": "^4.17.1",
+        "path": "^0.12.7"
+    }
+}
