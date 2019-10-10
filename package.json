@@ -1,5 +1,5 @@
 {
-    "name": "botsites",
+    "name": "botsite",
     "version": "1.0.0",
     "description": "A Generic site for static files needed for my Bots",
     "main": "index.js",
@@ -9,14 +9,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/sharonumute/BotSites.git"
+        "url": "git+https://github.com/sharonumute/BotSite.git"
     },
     "author": "Sharon Umute",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/sharonumute/BotSites/issues"
+        "url": "https://github.com/sharonumute/BotSite/issues"
     },
-    "homepage": "https://github.com/sharonumute/BotSites#readme",
+    "homepage": "https://github.com/sharonumute/BotSite#readme",
     "dependencies": {
         "express": "^4.17.1",
         "path": "^0.12.7"
